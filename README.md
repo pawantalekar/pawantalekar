@@ -2,7 +2,7 @@
 
 <!-- Header with Avatar and Name -->
 <div style="text-align: center; padding: 20px;">
-    <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" alt="Pawan Talekar" style="width: 150px; height: 150px; border-radius: 50%; border: 4px solid #00ffcc; box-shadow: 0 0 20px rgba(0,255,204,0.5);">
+    <img src="https://avatars.githubusercontent.com/u/pawantalekar?v=4" alt="Pawan Talekar" style="width: 150px; height: 150px; border-radius: 50%; border: 4px solid #00ffcc; box-shadow: 0 0 20px rgba(0,255,204,0.5);">
     <h1 style="font-size: 2.5em; margin: 10px 0; color: #00ffcc; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); animation: fadeIn 1s ease-in;">Pawan Talekar</h1>
     <p style="font-size: 1.2em; color: #b0b0ff;">Full Stack Developer | Nature Photographer</p>
 </div>
